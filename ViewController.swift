@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var MinuteToRise: UITextField!
     
-    
     @IBOutlet weak var TimePeriod: UITextField!
     
     @IBOutlet weak var Time1: UILabel!
